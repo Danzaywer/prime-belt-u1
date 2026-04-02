@@ -24,7 +24,7 @@ and returns. The belt feeds waste into a removable bin on one side.
 
 ## Original Sketch
 
-![Hand sketch](images/schizzo.jpg)
+![Hand sketch](images/schizzo.jpeg)
 
 ## Status
 
