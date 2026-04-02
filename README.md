@@ -29,7 +29,7 @@ and returns. The belt feeds waste into a removable bin on one side.
 ## Status
 
 - [x] Concept design
-- [x] Klipper macro draft
+- [ ] Klipper macro draft
 - [ ] CAD / printable mount
 - [ ] Physical prototype
 - [ ] Testing
