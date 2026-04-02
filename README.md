@@ -20,7 +20,7 @@ and returns. The belt feeds waste into a removable bin on one side.
 
 ## Concept Diagrams
 
-![Prime Belt diagram](docs/concept-diagram.svg)
+![Prime Belt diagram](docs/snapmaker_u1_purge_belt_under_bracket.svg)
 
 ## Original Sketch
 
