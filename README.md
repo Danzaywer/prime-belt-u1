@@ -18,6 +18,14 @@ and returns. The belt feeds waste into a removable bin on one side.
 - Waste bin removable without opening the machine
 - Works with existing Klipper/Fluidd setup
 
+## Concept Diagrams
+
+![Prime Belt diagram](docs/concept-diagram.svg)
+
+## Original Sketch
+
+![Hand sketch](images/schizzo.jpg)
+
 ## Status
 
 - [x] Concept design
