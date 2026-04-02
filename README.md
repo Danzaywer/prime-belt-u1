@@ -29,7 +29,7 @@ and returns. The belt feeds waste into a removable bin on one side.
 ## Similar projects
 
 - [Goose Belt Purger](https://github.com/Graylag-PD/Goose-Belt-Purger) — belt purger for Voron CoreXY
-- [Retractable Purge Mechanism](https://www.printables.com/model/14159) — BigBrain3D
+
 
 ## Hardware (planned)
 
